@@ -1,0 +1,851 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"input	input - color"
+			],
+			[
+				"$i",
+				"$item"
+			],
+			[
+				"$it",
+				"$items"
+			],
+			[
+				"if",
+				"ifelse	if … else …"
+			],
+			[
+				"$p",
+				"$cus_phone"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"or",
+				"order"
+			],
+			[
+				"$cus",
+				"$cus_name"
+			],
+			[
+				"va",
+				"value	Attr"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"dele",
+				"deleteRow"
+			],
+			[
+				"aj",
+				"ajaxsuccess	$.ajaxSuccess()"
+			],
+			[
+				"row",
+				"rowid"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"pares",
+				"parseFloat"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"sp",
+				"split"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"w",
+				"width	Attr"
+			],
+			[
+				"Pri",
+				"print_r"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"cont",
+				"contents"
+			],
+			[
+				"th",
+				"thead	<thead>"
+			],
+			[
+				"jq",
+				"jQuery.ajax	jQuery.ajax"
+			],
+			[
+				"j",
+				"jQuery.map	jQuery.map"
+			],
+			[
+				"$t",
+				"$total_price"
+			],
+			[
+				"input",
+				"input	input - hidden"
+			],
+			[
+				"na",
+				"name	Attr"
+			],
+			[
+				"on",
+				"onchange	Attr"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"tr",
+				"try	Wrap in try { … } catch (…) { … }"
+			],
+			[
+				"dat",
+				"date"
+			],
+			[
+				"comme",
+				"comments"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"$res",
+				"$result"
+			],
+			[
+				"comm",
+				"comment"
+			],
+			[
+				"cu",
+				"customers"
+			],
+			[
+				"style",
+				"style	Attr"
+			],
+			[
+				"ima",
+				"image"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"base_",
+				"base_url"
+			],
+			[
+				"$re",
+				"$result"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"conta",
+				"contain"
+			],
+			[
+				"fe",
+				"fees"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"fee",
+				"fees_total"
+			],
+			[
+				"class_",
+				"class_name"
+			],
+			[
+				"class",
+				"classes"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"bt",
+				"btn-danger"
+			],
+			[
+				"user",
+				"user_type"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"nav",
+				"navigation"
+			],
+			[
+				"inc",
+				"incl	include …"
+			],
+			[
+				"html",
+				"html	.html()"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"a",
+				"action"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"con",
+				"conditions"
+			],
+			[
+				"rol",
+				"role"
+			],
+			[
+				"role_",
+				"role_permission_table"
+			],
+			[
+				"ip_",
+				"ip_addr"
+			],
+			[
+				"fet",
+				"fetch_method	CI - Fetch Method"
+			],
+			[
+				"rou",
+				"router"
+			],
+			[
+				"use",
+				"user_unique_field"
+			],
+			[
+				"role",
+				"role_permission_table"
+			],
+			[
+				"acti",
+				"activassion_data"
+			],
+			[
+				"fals",
+				"FALSE"
+			],
+			[
+				"fu",
+				"fun	function …"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"_se",
+				"_select_data"
+			],
+			[
+				"li",
+				"limit"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"f",
+				"foreach	foreach …"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"lo",
+				"log_message"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"ti",
+				"this"
+			],
+			[
+				"sele",
+				"selected_user"
+			],
+			[
+				"contre",
+				"controllers"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"get",
+				"get_data"
+			],
+			[
+				"Tr",
+				"TRUE"
+			],
+			[
+				"db",
+				"db_get	CI - Active Record DB Get"
+			],
+			[
+				"usern",
+				"username_check"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"ac",
+				"access_views"
+			],
+			[
+				"Re",
+				"Registration"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"en",
+				"encrypt_password"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"regi",
+				"registration_time"
+			],
+			[
+				"acc",
+				"access_views"
+			],
+			[
+				"r",
+				"registration_time"
+			],
+			[
+				"calcu",
+				"calculate_time"
+			],
+			[
+				"gen",
+				"generate_key"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"load",
+				"load_library	CI - Load Library"
+			],
+			[
+				"func",
+				"function_exists"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"fo",
+				"font"
+			],
+			[
+				"lin",
+				"link_tag"
+			],
+			[
+				"ass",
+				"assets"
+			],
+			[
+				"scope",
+				"$scope	AngularJS"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"sc",
+				"script"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/c.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"",
+				"AngularJS: Toggle - Enable data- Prefix"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"e",
+				"Package Control: Enable Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/sayemk.abu/Desktop/git/learngit"
+	],
+	"file_history":
+	[
+		"/C/Users/sayemk.abu/Desktop/git/learngit/drinks.json",
+		"/C/Users/sayemk.abu/Desktop/git/learngit/snacks.json",
+		"/C/xampp/htdocs/brandshop/assets/js/myscript.js",
+		"/C/xampp/htdocs/brandshop/assets/css/style.css",
+		"/C/xampp/htdocs/brandshop/application/views/includes/footer.php",
+		"/C/xampp/htdocs/brandshop/application/controllers/home.php",
+		"/C/xampp/htdocs/brandshop/application/config/autoload.php",
+		"/C/xampp/htdocs/brandshop/application/controllers/shop.php",
+		"/C/xampp/htdocs/brandshop/application/views/cart_details_view.php",
+		"/C/xampp/htdocs/brandshop/application/views/cart_view.php",
+		"/C/xampp/htdocs/brandshop/application/config/config.php",
+		"/C/xampp/htdocs/brandshop/application/views/includes/menu.php",
+		"/C/Users/sayemk.abu/Desktop/Wallshop/New/icetemplates.com/demo/ecommerce/wallshop/full-width.html",
+		"/C/Users/sayemk.abu/Desktop/Wallshop/New/icetemplates.com/demo/ecommerce/wallshop/portfolio4.html",
+		"/C/Users/sayemk.abu/Desktop/Wallshop/New/icetemplates.com/demo/ecommerce/wallshop/product-page.html",
+		"/C/xampp/htdocs/billing/hps-one-page/carrier.php",
+		"/C/xampp/htdocs/billing/hps-one-page/active_call.php",
+		"/C/xampp/htdocs/billing/hps-one-page/include/header.php",
+		"/C/xampp/htdocs/brandshop/assets/css/bootstrap.min.css",
+		"/C/xampp/htdocs/brandshop/application/models/shop_model.php",
+		"/C/xampp/htdocs/brandshop/application/views/home_view.php",
+		"/C/xampp/htdocs/brandshop/application/views/shop_view.php",
+		"/C/Users/sayemk.abu/Desktop/Wallshop/New/icetemplates.com/demo/ecommerce/wallshop/js/jquery.twitter.js",
+		"/C/xampp/htdocs/brandshop/application/models/products_model.php",
+		"/C/xampp/htdocs/brandshop/ci/application/controllers/access_control/registration.php",
+		"/C/xampp/htdocs/brandshop/application/views/products/details.php",
+		"/C/xampp/htdocs/brandshop/application/config/routes.php",
+		"/C/xampp/htdocs/brandshop/system/language/english/form_validation_lang.php",
+		"/C/xampp/htdocs/brandshop/application/models/home_model.php",
+		"/C/Users/sayemk.abu/Desktop/Wallshop/New/icetemplates.com/demo/ecommerce/wallshop/shop.html",
+		"/C/xampp/htdocs/brandshop/ci/application/views/access_views/registration.php",
+		"/C/xampp/htdocs/brandshop/application/views/includes/head.php",
+		"/C/xampp/htdocs/brandshop/application/controllers/products/details.php",
+		"/C/Users/sayemk.abu/Desktop/Wallshop/New/icetemplates.com/demo/ecommerce/wallshop/images/products/2_single.html",
+		"/C/Users/sayemk.abu/Desktop/Wallshop/New/icetemplates.com/demo/ecommerce/wallshop/index.html",
+		"/C/xampp/htdocs/CI/application/controllers/site.php",
+		"/C/xampp/htdocs/brandshop/application/config/database.php",
+		"/C/xampp/htdocs/CI/application/models/data_model.php",
+		"/C/xampp/htdocs/brandshop/assets/images/products/2_single.html",
+		"/C/xampp/htdocs/brandshop/.htaccess",
+		"/C/xampp/htdocs/brandshop/application/views/test.twig",
+		"/C/xampp/htdocs/brandshop/assets/css/responsive.css",
+		"/C/xampp/htdocs/brandshop/application/controllers/test.php",
+		"/C/xampp/htdocs/CI/application/config/database.php",
+		"/C/xampp/htdocs/CI/application/config/config.php",
+		"/C/xampp/htdocs/CI/index.php",
+		"/C/xampp/htdocs/CI/application/config/routes.php",
+		"/C/xampp/htdocs/moodle/admin/index.php",
+		"/C/xampp/htdocs/billing/hps/class/connection.php",
+		"/C/Users/sayemk.abu/Application Data/SSH/temp/accounts.py",
+		"/C/Users/sayemk.abu/Application Data/SSH/temp/accounts (1).py",
+		"/C/xampp/htdocs/billing/hps-one-page/apply_conf.php",
+		"/C/xampp/htdocs/billing/hps-one-page/home_2.php",
+		"/C/xampp/htdocs/billing/client_extention.conf",
+		"/C/xampp/htdocs/billing/USA/apply_conf.php",
+		"/C/xampp/htdocs/billing/hps/apply_conf.php",
+		"//MOUMITA-UBUNTU/school/apps/frappe/frappe/templates/pages/profile.py",
+		"/C/Users/sayemk.abu/Application Data/SSH/temp/apply_conf.php",
+		"/C/xampp/htdocs/billing/hps-one-page/session.php",
+		"/C/xampp/htdocs/billing/hps-one-page/home.php",
+		"/C/xampp/htdocs/billing/hps/home.php",
+		"/C/xampp/htdocs/billing/hps/class/session.php",
+		"/C/xampp/htdocs/billing/hps-one-page/logout.php",
+		"/C/xampp/htdocs/billing/hps-one-page/class/session.php",
+		"/C/xampp/htdocs/billing/hps-one-page/include/session.php",
+		"/C/Users/sayemk.abu/Application Data/SSH/temp/client_extention.conf",
+		"/C/xampp/htdocs/billing/hps-one-page/class/routing.php",
+		"/D/reUpload/pages/profile.py",
+		"/D/reUpload/pages/profile.html",
+		"/C/Users/sayemk.abu/Application Data/SSH/temp/desktop (3).py",
+		"//MOUMITA-UBUNTU/school/apps/erpnext/erpnext/academic/page/student_attendence/student_attendence.py",
+		"//MOUMITA-UBUNTU/school/apps/erpnext/erpnext/academic/page/student_attendence/student_attendence.js",
+		"//MOUMITA-UBUNTU/school/sites/assets/erpnext/css/TableBarChart.css",
+		"/C/Users/sayemk.abu/Application Data/SSH/temp/desktop (1).py",
+		"//MOUMITA-UBUNTU/school/apps/erpnext/erpnext/academic/page/student_attendence/student_attendence - Copy.py",
+		"//MOUMITA-UBUNTU/school/apps/erpnext/erpnext/config/fees.py",
+		"//MOUMITA-UBUNTU/school/apps/erpnext/erpnext/accounts/report/customer_account_head/customer_account_head.py",
+		"//MOUMITA-UBUNTU/school/sites/assets/erpnext/js/TableBarChart.js",
+		"//MOUMITA-UBUNTU/school/apps/erpnext/erpnext/fees/report/fees_structure/fees_structure.html",
+		"/C/xampp/htdocs/chart/test/test.html",
+		"/C/xampp/htdocs/chart/TableBarChart.js",
+		"/C/xampp/htdocs/chart/TableBarChart.css",
+		"//MOUMITA-UBUNTU/school/apps/erpnext/erpnext/accounts/report/financial_statements.html",
+		"//MOUMITA-UBUNTU/school/apps/erpnext/erpnext/fees/report/fees_structure/fees_structure.json",
+		"//MOUMITA-UBUNTU/school/apps/erpnext/erpnext/student/report/registration_by_class/registration_by_class.js",
+		"//MOUMITA-UBUNTU/school/apps/erpnext/erpnext/student/report/registration_by_class/registration_by_class.py",
+		"//MOUMITA-UBUNTU/school/apps/erpnext/erpnext/student/report/registration_by_class/registration_by_class.json",
+		"//MOUMITA-UBUNTU/school/apps/erpnext/erpnext/fees/report/fees_structure/fees_structure.js",
+		"//MOUMITA-UBUNTU/school/apps/erpnext/erpnext/fees/report/fees_structure/fees_structure.py",
+		"//MOUMITA-UBUNTU/school/apps/erpnext/erpnext/academic/page/student_attendence/tablebarchart.jquery.json",
+		"//MOUMITA-UBUNTU/school/apps/erpnext/erpnext/fees/doctype/fees_collection/fees_collection.js",
+		"//MOUMITA-UBUNTU/school/apps/erpnext/erpnext/config/academic.py",
+		"/C/xampp/htdocs/chart/test/test2.html",
+		"/C/Users/sayemk.abu/AppData/Local/Temp/Temp1_M.zip/http___premiumlayers.com_demos_magrev_/premiumlayers.com/demos/magrev/index.html",
+		"/C/xampp/htdocs/billing/hps/cdr.php",
+		"/C/xampp/htdocs/billing/hps/carrier_cdr.php",
+		"/C/xampp/htdocs/billing/hps-one-page/sync.php",
+		"/C/xampp/htdocs/billing/hps-one-page/summary.php",
+		"/C/xampp/htdocs/billing/hps-one-page/css/mainstyle.css",
+		"/C/xampp/htdocs/billing/hps-one-page/carrier_user.php",
+		"/C/xampp/htdocs/billing/hps-one-page/agent.php",
+		"/C/xampp/htdocs/billing/hps-one-page/licence_check.php",
+		"/C/xampp/htdocs/billing/hps-one-page/routing_edit.php",
+		"/C/xampp/htdocs/billing/hps-one-page/sel_routing.php",
+		"/C/xampp/htdocs/billing/hps-one-page/gateway_update.php",
+		"/C/xampp/htdocs/billing/hps-one-page/carrier_update.php",
+		"/C/xampp/htdocs/billing/hps-one-page/gateway.php",
+		"/C/xampp/htdocs/billing/hps-one-page/class/accessConfig.php",
+		"/C/xampp/htdocs/billing/hps-one-page/licence_error.php",
+		"/C/xampp/htdocs/billing/USA/carrier.php",
+		"/C/xampp/htdocs/billing/USA/home.php",
+		"/C/xampp/htdocs/billing/USA/index.php",
+		"/C/xampp/htdocs/billing/USA/home.html",
+		"/C/xampp/htdocs/billing/USA/include/menu_bar.php",
+		"/C/xampp/htdocs/billing/USA/include/head.php",
+		"/C/xampp/htdocs/billing/USA/dashboard.php",
+		"/C/xampp/htdocs/billing/hps-one-page/restart.php",
+		"/C/xampp/htdocs/billing/hps-one-page/reload.php",
+		"/C/xampp/htdocs/billing/hps-one-page/registration.php",
+		"/C/xampp/htdocs/billing/hps-one-page/loader.html",
+		"/C/xampp/htdocs/billing/USA/css/mws.style.css",
+		"/C/xampp/htdocs/hps/js/navigation.php",
+		"/C/xampp/htdocs/USA/gateway_update.php",
+		"/C/xampp/htdocs/USA/include/menu_bar.php",
+		"/C/xampp/htdocs/USA/include/head.php",
+		"/C/xampp/htdocs/USA/include/dashboard.php",
+		"/C/xampp/htdocs/USA/index.php",
+		"/C/xampp/htdocs/USA/dashboard.php"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"email",
+			"loading",
+			"log_message",
+			"help-block",
+			"help-bolck",
+			"SOCK_DGRAM",
+			"AF_INET",
+			"socket_sendto",
+			"sendto_xchanged"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"floatingBarsG"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 48.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "brandshop.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
